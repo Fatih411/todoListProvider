@@ -1,16 +1,5 @@
 # flutter_statetodoo
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1684489622](https://github.com/Fatih411/todoListProvider/assets/100070209/8fc5c1b2-172d-42a4-af9e-812481efdfd7)
+![Screenshot_1684489631](https://github.com/Fatih411/todoListProvider/assets/100070209/3b4c6b4f-f562-4614-a7a5-54723b59c79a)
+![Screenshot_1684489634](https://github.com/Fatih411/todoListProvider/assets/100070209/fa857d8f-de42-4de9-8dbb-2f91fb406651)
